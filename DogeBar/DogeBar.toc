@@ -1,7 +1,7 @@
-## Interface: 46247
+## Interface: 100000
 ## Title: DogeBar
 ## Notes: Replaces the gryphon art on the action bar with a Shiba Inu.
 ## Author: Shran
-## Version: 1.0.1
+## Version: 1.0.2
 
 DogeBar.lua
